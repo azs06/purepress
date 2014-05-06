@@ -1,4 +1,4 @@
 PurePress
 =========
 
-A WordPress blg thme created using Pure CSS framework
+A WordPress blog thme created using Pure CSS framework
