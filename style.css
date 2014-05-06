@@ -1,0 +1,47 @@
+/*
+Theme Name: Purepress
+Theme URI: http://theazs.com/zurb-blog
+Author: Md.Atiquzzaman Soikat
+Author URI: http://theazs.com
+Version: 1.0
+Description: A WordPress Blog theme created using Pure Css framework.
+*/
+.nav-list .menu-item {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+.nav-list .menu-item a {
+    background: transparent;
+    border: 2px solid rgb(176, 202, 219);
+    color: #fff;
+    margin-top: 1em;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-size: 85%;
+}
+.nav-list .menu-item a:hover,
+.nav-list .menu-item a:focus {
+    border: 2px solid rgb(61, 146, 201);
+    text-decoration: none;
+}
+.nav-list .menu-item.current-menu-item a {
+    border: 2px solid #3D92C9;
+}
+
+.sidebar .header{
+    margin: 30% 2em 0;
+}
+
+.sidebar .header h1{
+    font-size: 1.7em;
+}
+ul.sub-menu {
+    padding: 0 0 0 10px;
+    margin-top: 5px;
+}
+.nav-list .sub-menu li a {
+    font-size: 10px;
+    margin-top: .2em;
+    padding: 5px;
+}
